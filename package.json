@@ -1,0 +1,31 @@
+{
+  "name": "@shsaleh/formtools",
+  "version": "0.0.2",
+  "description": "tools for html form and its inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shsaleh/formTools.git"
+  },
+  "keywords": [
+    "form",
+    "input",
+    "tools",
+    "htmlForm",
+    "rules",
+    "validation"
+  ],
+  "author": "shSaleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shsaleh/formTools/issues"
+  },
+  "homepage": "https://github.com/shsaleh/formTools#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
